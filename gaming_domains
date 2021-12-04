@@ -1,0 +1,16 @@
+# This is a collection of sites where one can find web based games
+# Formatted for import into pihole
+
+0.0.0.0 crazygames.com
+0.0.0.0 scrambled.world
+0.0.0.0 agame.com
+0.0.0.0 armorgames.com
+0.0.0.0 bigfishgames.com
+0.0.0.0 247games.com
+0.0.0.0 addictinggames.com
+0.0.0.0 freeonlinegames.com
+0.0.0.0 kongregate.com
+0.0.0.0 miniclip.com
+0.0.0.0 msn.com
+0.0.0.0 pogo.com
+0.0.0.0 shockwave.com
