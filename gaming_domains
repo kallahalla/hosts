@@ -1,11 +1,13 @@
 # This is a collection of sites where one can find web based games
 # Formatted for import into pihole
+
 # Base domains.
 0.0.0.0 247games.com
 0.0.0.0 a10.com
 0.0.0.0 addictinggames.com
 0.0.0.0 agame.com
 0.0.0.0 agar.io
+0.0.0.0 arkadium.com
 0.0.0.0 armorgames.com
 0.0.0.0 bigfishgames.com
 0.0.0.0 crazygames.com
@@ -14,11 +16,13 @@
 0.0.0.0 freeonlinegames.com
 0.0.0.0 friv.com
 0.0.0.0 games-4-free.com
+0.0.0.0 gamedistribution.com
 0.0.0.0 gameforge.com
 0.0.0.0 gamepix.com
 0.0.0.0 kizi.com
 0.0.0.0 kongregate.com
 0.0.0.0 miniclip.com
+0.0.0.0 motox3m.co	
 0.0.0.0 msn.com
 0.0.0.0 poki.com
 0.0.0.0 pogo.com
@@ -26,12 +30,14 @@
 0.0.0.0 scrambled.world
 0.0.0.0 shockwave.com
 0.0.0.0 tankionline.com
+
+# www versions of base domains
 0.0.0.0 www.247games.com
 0.0.0.0 www.a10.com
 0.0.0.0 www.addictinggames.com
-# www versions of base domains
 0.0.0.0 www.agame.com
 0.0.0.0 www.agar.io
+0.0.0.0 www.arkadium.com
 0.0.0.0 www.armorgames.com
 0.0.0.0 www.bigfishgames.com
 0.0.0.0 www.crazygames.com
@@ -40,10 +46,12 @@
 0.0.0.0 www.freeonlinegames.com
 0.0.0.0 www.friv.com
 0.0.0.0 www.games-4-free.com
+0.0.0.0 www.gamedistribution.com
 0.0.0.0 www.gameforge.com
 0.0.0.0 www.gamepix.com
 0.0.0.0 www.kizi.com
 0.0.0.0 www.kongregate.com
+0.0.0.0 www.motox3m.co	
 0.0.0.0 www.miniclip.com
 0.0.0.0 www.msn.com
 0.0.0.0 www.poki.com
@@ -52,9 +60,12 @@
 0.0.0.0 www.scrambled.world
 0.0.0.0 www.shockwave.com
 0.0.0.0 www.tankionline.com
+
 # Additional domains
-0.0.0.0 play.gamepix.com
-0.0.0.0 games.poki.com
 0.0.0.0 builds.crazygames.com
 0.0.0.0 files.crazygames.com
 0.0.0.0 games.crazygames.com
+0.0.0.0 games.poki.com
+0.0.0.0 play.gamepix.com
+0.0.0.0 play.google.com
+0.0.0.0 play.googleapis.com	
