@@ -4,6 +4,7 @@
 # Base domains.
 192.168.86.20 247games.com
 192.168.86.20 a10.com
+192.168.86.20 aarp.org
 192.168.86.20 addictinggames.com
 192.168.86.20 agame.com
 192.168.86.20 agar.io
@@ -37,6 +38,7 @@
 # www versions of base domains
 192.168.86.20 www.247games.com
 192.168.86.20 www.a10.com
+192.168.86.20 www.aarp.org
 192.168.86.20 www.addictinggames.com
 192.168.86.20 www.agame.com
 192.168.86.20 www.agar.io
@@ -67,8 +69,10 @@
 # Additional domains
 192.168.86.20 builds.crazygames.com
 192.168.86.20 files.crazygames.com
+192.168.86.20 games.aarp.org	
 192.168.86.20 games.crazygames.com
 192.168.86.20 games.poki.com
 192.168.86.20 play.gamepix.com
 192.168.86.20 play.google.com
 192.168.86.20 play.googleapis.com	
+192.168.86.20 yohoho.live	
